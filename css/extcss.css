@@ -1,0 +1,48 @@
+img {
+      height: 150px;
+      width:150px;
+      border-radius: 50%;}
+div.education{
+   line-height: 85%;
+}
+div.Honor{
+  line-height:80%;
+}
+div.Publication{
+  line-height:80%;
+}
+div.WorkExperience{
+  line-height:80%;
+}
+div.ResearchExperience{
+  line-height:80%;
+}
+div.TermProjects{
+  line-height:80%;
+}
+div.SideProjects{
+  line-height:80%;
+}
+div.Skills{
+  line-height:80%;
+}
+.contactme {
+  font-size: 40px;
+}
+
+
+h1 {
+    color:black;
+    }
+
+h3 {
+    color:black;
+    }
+
+hr {
+    background-color: black;
+    border-style: none;
+    border-top: dotted;
+    border-width: 2px;
+    width: 70%;
+    }
